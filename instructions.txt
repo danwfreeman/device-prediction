@@ -1,0 +1,70 @@
+Overview
+In this project, you are challenged to apply linear regression, a typically regression-focused method, to a classification problem. You will work with a real-world dataset of your choice and utilize one-hot encoding to transform categorical labels into a format suitable for linear regression. This project aims to deepen your understanding of both linear regression and classification techniques, as well as to explore the practicalities and limitations of using regression methods for classification tasks.
+
+Objectives
+Dataset Selection and Preparation:
+
+Choose a real-world dataset suitable for classification. This could be a dataset from domains like marketing (customer segmentation), finance (loan approval), healthcare (disease diagnosis), etc.
+
+Ensure your chosen dataset has categorical labels that can be transformed using one-hot encoding.
+
+Data Preprocessing:
+
+Perform necessary data cleaning and preprocessing steps. This includes handling missing values and any data transformations you deem necessary.
+
+Apply one-hot encoding to the categorical labels to transform them into a format suitable for linear regression.
+
+Model Implementation:
+
+Implement a linear regression model using your choice of programming language or statistical software.
+
+Train the model on your preprocessed dataset and perform predictions.
+
+Model Evaluation:
+
+Evaluate the performance of your linear regression model in the context of a classification task. Discuss how well linear regression performs as a classifier.
+
+Use appropriate evaluation metrics (e.g., mean squared error, accuracy, precision, recall) to assess your model.
+
+Try to get an accuracy of above 60%.
+
+Comparison with Traditional Classifiers (Optional):
+
+Optionally, compare the performance of your linear regression model with a traditional classifier (like logistic regression) on the same dataset.
+
+Analyze and discuss any differences in performance and why they might occur.
+
+Deliverables
+Project Code:
+
+Submit all the code used for data preprocessing, model implementation, and evaluation.
+
+Your code should be well-documented, well-commented (but not excessively) and easy to follow (with sensible variable names).
+
+Project Report:
+
+Provide a detailed write-up of your approach. This should include:
+
+A description of the dataset and the preprocessing steps taken.
+
+An explanation of your linear regression implementation and the rationale behind using it for classification.
+
+A thorough analysis of the model's performance.
+
+A summary of any challenges faced during the project and how you addressed them.
+
+If done in a Jupyter notebook, the report should appear in the same file as the code. If coded using another IDE, the report should be written in word. 
+
+Evaluation Criteria
+Data Preprocessing: Clarity and appropriateness of preprocessing steps.
+
+Model Implementation: Correct implementation and use of linear regression for classification.
+
+Analysis and Interpretation: Depth and accuracy of analysis on model performance and project findings.
+
+Report Quality: Clarity, structure, and comprehensiveness of the final report.
+
+This project not only tests your technical skills but also your ability to interpret results and make reasoned arguments about the suitability of different models for various tasks. We look forward to seeing your innovative approaches and insightful analyses. Good luck!
+
+
+
